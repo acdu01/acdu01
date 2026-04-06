@@ -1,8 +1,22 @@
-# Anna Du
+<h1 align="center">Anna Du</h1>
 
-Electrical and Computer Engineering student at Olin College building AI systems, scientific software, and fun interfaces.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=5C0782&center=true&vCenter=true&width=560&lines=Building+AI+systems;Science-fiction+enthusiast;Designing+playful+interactive+experiences"
+    alt="Typing SVG"
+  />
+</p>
 
-[Website](https://www.annadu.org) • [LinkedIn](https://www.linkedin.com/in/annacdu/) • [Portfolio](https://portfolio.annadu.org/) • [Email](mailto:annacdu1@gmail.com)
+<p align="center">
+  Electrical and Computer Engineering student at Olin College building AI systems, scientific software, and fun interfaces.
+</p>
+
+<p align="center">
+  <a href="https://www.annadu.org">Website</a> |
+  <a href="https://www.linkedin.com/in/annacdu/">LinkedIn</a> |
+  <a href="https://portfolio.annadu.org/">Portfolio</a> |
+  <a href="mailto:annacdu1@gmail.com">Email</a>
+</p>
 
 ## What I'm working on
 
