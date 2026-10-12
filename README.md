@@ -48,7 +48,6 @@ A retro desktop-style portfolio built with React, TypeScript, and Vite, with dra
 ## A few highlights
 
 - First author on work accepted to IEEE OCEANS 2026
-- Davidson Fellow and Regeneron STS Top 300 Scholar
 - Founder of Ideas Become Impact, a nonprofit for hands-on AI/STEM education
 
 ## Reach out
